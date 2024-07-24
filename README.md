@@ -10,6 +10,10 @@ This is a simple Android application that displays a list of books in a bookshel
 - Dark theme friendly with a gray background and visually appealing layout.
 - Responsive design ensuring proper display on different screen sizes.
 
+  ## Screenshot
+  ![appScreenShot](https://github.com/user-attachments/assets/779fea9c-db13-4952-8196-1f84f97d3f79)
+
+
 ### Prerequisites
 
 - Android Studio
